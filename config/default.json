@@ -1,6 +1,0 @@
-{
-	"mongoURI": "mongodb+srv://Tom:Mtmjjz5mtm@cluster0.rhs9t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-	"jwtSecret": "ThePasswordThatMakesAToken:-MtmjjZ5mtm:-AndItShouldB31mp055ibl3T0Gu3355",
-	"githubClientId": "Iv1.3712cfded5a8a17e",
-	"githubSecret": "b2671b9a5030b44f2c317e9c34870d092f189014"
-}
